@@ -19,7 +19,7 @@ public class gitmarch {
 			  }  
 			 }  
 			  
-			 public void merge(int low, int mid, int high) {  
+			public void merge(int low, int mid, int high) {  
 			  int h, i, j, k;  
 			  int b[] = new int[50];  
 			  h = low;  
